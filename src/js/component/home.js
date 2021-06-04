@@ -8,7 +8,9 @@ export function Home() {
 	return (
 		<div className="text-center mt-5">
 			<div className="row d-flex justify-content-center">
-				<div className="col-xl-6 col-lg-8 col-md-10 col-sm-12">
+				<div
+					className="col-xl-6 col-lg-8 col-md-10 col-sm-12"
+					style={{ "text-align": "justify" }}>
 					<p>
 						AR.com. (2014, 17 diciembre). Costa Rica gana juicio a
 						petrolera que pretendía indemnización por $13 millones
