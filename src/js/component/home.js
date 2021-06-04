@@ -24,7 +24,7 @@ export function Home() {
 			<p>
 				AR.com. (2014, 17 diciembre). Costa Rica gana juicio a petrolera
 				que pretendía indemnización por $13 millones ​. ameliarueda.com.
-				<a href="https://www.ameliarueda.com/nota/costa-rica-gana-juicio-a-petrolera-que-pretendia-indemnizacion-por-13-millo">
+				<a href="https://datos.bancomundial.org/indicator/NY.GDP.PETR.RT.ZS?end=2001&locations=PE&start=1997 ">
 					Recuperado de este enlace
 				</a>
 			</p>
@@ -36,23 +36,25 @@ export function Home() {
 				</a>
 			</p>
 			<p>
-				AR.com. (2014, 17 diciembre). Costa Rica gana juicio a petrolera
-				que pretendía indemnización por $13 millones ​. ameliarueda.com.
-				<a href="https://www.ameliarueda.com/nota/costa-rica-gana-juicio-a-petrolera-que-pretendia-indemnizacion-por-13-millo">
+				Congreso del Gobierno peruano. (2006). Www2.congreso.gob.pe.
+				Recuperado el 30 de Mayo del 2021
+				<a href="https://www2.congreso.gob.pe/Sicr/Prensa/heraldo.nsf/04NoticicasArchivoHistorico/1d3be5442b1eb3aa052571a9000dde8f/?OpenDocument ">
 					Recuperado de este enlace
 				</a>
 			</p>{" "}
 			<p>
-				AR.com. (2014, 17 diciembre). Costa Rica gana juicio a petrolera
-				que pretendía indemnización por $13 millones ​. ameliarueda.com.
-				<a href="https://www.ameliarueda.com/nota/costa-rica-gana-juicio-a-petrolera-que-pretendia-indemnizacion-por-13-millo">
+				Cordero Araya, P. (2011). Análisis Jurídico del Caso Harken
+				Costa Rica Holdings: Bases para una posible defensa del Estado
+				de Costa Rica ante una demanda internacional. [PDF] (p. 41).
+				Recuperado el 30 de Mayo del 2021
+				<a href="https://iij.ucr.ac.cr/wp-content/uploads/bsk-pdf-manager/2017/06/Analisis-Juridico-del-Caso-Harken-Costa-Rica-Holdings.pdf.">
 					Recuperado de este enlace
 				</a>
 			</p>{" "}
 			<p>
-				AR.com. (2014, 17 diciembre). Costa Rica gana juicio a petrolera
-				que pretendía indemnización por $13 millones ​. ameliarueda.com.
-				<a href="https://www.ameliarueda.com/nota/costa-rica-gana-juicio-a-petrolera-que-pretendia-indemnizacion-por-13-millo">
+				Editor Summa. (2011, 9 septiembre). Petrolera Mallon Oil acude a
+				Tribunales costarricenses. Revista Summa.
+				<a href="https://revistasumma.com/16604/">
 					Recuperado de este enlace
 				</a>
 			</p>{" "}
