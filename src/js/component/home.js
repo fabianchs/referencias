@@ -59,16 +59,16 @@ export function Home() {
 				</a>
 			</p>{" "}
 			<p>
-				AR.com. (2014, 17 diciembre). Costa Rica gana juicio a petrolera
-				que pretendía indemnización por $13 millones ​. ameliarueda.com.
-				<a href="https://www.ameliarueda.com/nota/costa-rica-gana-juicio-a-petrolera-que-pretendia-indemnizacion-por-13-millo">
+				Garza, J. (2020, 16 junio). En Costa Rica sí hay petróleo, según
+				Colegio de Geólogos. LaRepublica
+				<a href="https://www.larepublica.net/noticia/en-costa-rica-si-hay-petroleo-segun-colegio-de-geologos">
 					Recuperado de este enlace
 				</a>
 			</p>{" "}
 			<p>
-				AR.com. (2014, 17 diciembre). Costa Rica gana juicio a petrolera
-				que pretendía indemnización por $13 millones ​. ameliarueda.com.
-				<a href="https://www.ameliarueda.com/nota/costa-rica-gana-juicio-a-petrolera-que-pretendia-indemnizacion-por-13-millo">
+				Informa-Tico.com. (2014, 1 agosto). Gobierno dictó moratoria a
+				explotación petrolera. Informa-Tico.
+				<a href="https://www.informa-tico.com/1-08-2011/gobierno-dicto-moratoria-explotacion-petrolera ">
 					Recuperado de este enlace
 				</a>
 			</p>{" "}
